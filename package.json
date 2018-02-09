@@ -1,0 +1,15 @@
+{
+  "name": "gpmdp_ticker",
+  "version": "0.1.0",
+  "description": "Creates a ticker (text file for streaming) for Google Play Music Desktop Player",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chris \"IKnowBashFu\" Vollink",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "ws": "^4.0.0"
+  }
+}
